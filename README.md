@@ -2,4 +2,4 @@
 
 A responsive web site using bootstrap.
 
-[!webpage] please check the next link: https://jgambox.github.io/restauran.github.io/
+[!webpage] please check the next link: <a href="https://jgambox.github.io/restaurant-chinesefood/"> LINK WEBPAGE </a>
